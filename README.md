@@ -1,6 +1,6 @@
 # 🏎️ Formula 1 Racing Simulator
 
-An advanced, real-time Formula 1 racing simulator built with C# .NET Framework 4.7.2. Features comprehensive networking architecture, realistic car physics, telemetry systems, and multi-car race management - perfect for learning advanced C# programming concepts and network communication.
+An advanced, real-time Formula 1 racing simulator built with C# .NET Framework 4.7.2. Features comprehensive networking architecture, realistic car physics, telemetry systems, and multi-car race management - advanced C# programming concepts and network communication.
 
 ## 🏁 Overview
 
@@ -166,7 +166,6 @@ This project serves as an excellent learning platform for:
 
 ## 🎯 Perfect For
 
-- **Computer Science Students**: Learning networking and real-time systems
 - **C# Developers**: Exploring advanced language features and patterns  
 - **System Architects**: Understanding distributed system design
 - **Racing Enthusiasts**: Experiencing F1 strategy and telemetry systems
